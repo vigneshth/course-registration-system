@@ -1,5 +1,8 @@
 # Online Course Registration System
 
+## Project Demo Video
+▶️ Watch demo (Google Drive): https://drive.google.com/drive/folders/1rBlIsY9DWlAcrH04OaiwQHN5tCYVJd3L?usp=sharing
+
 The Online Course Registration System is a Java-based web application designed to simplify course enrollment and management for both students and administrators. It replaces the traditional manual registration process with a secure, centralized, and user-friendly online platform.
 
 This project is developed using Java Servlets, JSP, and JDBC with MySQL for backend operations and follows the Model–View–Controller (MVC) architecture to ensure a structured, scalable and maintainable design.
@@ -57,7 +60,8 @@ DAO classes are used to handle database interactions securely and efficiently us
 
 ## Conclusion
 
-This project demonstrates how Java web technologies can be used to build a reliable and scalable online course registration system. By automating the registration process, it reduces manual effort, saves time, and improves the overall user experience for both students and administrators.
+This project demonstrates how Java web technologies can be used to build a reliable and scalable online course registration system. By automating the registration process, it reduces manual effort, saves time, and improves the overall user experience for both students and administrators. 
+
 
 ## Author
 

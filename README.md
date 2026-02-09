@@ -2,7 +2,7 @@
 
 The Online Course Registration System is a Java-based web application designed to simplify course enrollment and management for both students and administrators. It replaces the traditional manual registration process with a secure, centralized, and user-friendly online platform.
 
-This project is developed using Java Servlets, JSP, and JDBC with MySQL for backend operations and follows the Model–View–Controller (MVC) architecture to ensure a structured, scalable, and maintainable design.
+This project is developed using Java Servlets, JSP, and JDBC with MySQL for backend operations and follows the Model–View–Controller (MVC) architecture to ensure a structured, scalable and maintainable design.
 
 ## Features
 
